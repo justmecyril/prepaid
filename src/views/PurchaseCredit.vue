@@ -1,14 +1,13 @@
 <template>
   <div>
-    <FormOne />
+    <FormTwo />
   </div>
 </template>
 
 <script>
-import FormOne from "../components/FormOne.vue";
-
+import FormTwo from "../components/FormTwo.vue";
 export default {
-  components: { FormOne },
+  components: { FormTwo },
   setup() {
     return {};
   },
