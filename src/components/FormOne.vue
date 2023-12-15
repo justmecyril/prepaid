@@ -75,7 +75,7 @@
               {{ errors.confirmMeterNumber }}
             </p> -->
           </div>
-          <div class="flex justify-end">
+          <div class="flex justify-center">
             <button
               type="submit"
               class="px-6 py-4 text-xs font-medium text-black bg-white rounded-md cursor-pointer font-plus-jakarta-sans"
